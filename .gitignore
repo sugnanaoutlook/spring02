@@ -1,0 +1,12 @@
+target/
+.claude/settings.local.json
+*.class
+*.jar
+*.war
+*.ear
+*.log
+.DS_Store
+.idea/
+*.iml
+.vscode/
+*.swp
